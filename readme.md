@@ -39,20 +39,28 @@ Je vindt een link naar de algemene pagina [hier](https://stackoverflow.com/).
 * [Object.keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 * [Conditional operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
-
 ## This
 Ik heb uitgebreid de tijd genomen om `this` te begrijpen in Javascript. Ik dacht eerst dat het gewoon verwees naar het bovenliggende object, maar het kan per situatie anders zijn. Ik heb dit via MDN bekeken en ermee geoefend. Het duurde wel even voordat ik het precies door had, want in sommige situaties kan het vrij verwarrend zijn.
 
 Je vindt een link naar de pagina [hier](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this).
 
+## Hulp van een Programmeur
+Ik volg dit vak tijdens mijn afstudeerstage en daarbij kreeg ik de gelegenheid om af en toe aan dit vak te werken. Ik heb uren lang vastgezeten op het structureren van een dataset om die te vormen zoals ik dat wilde. Gelukkig kon een programmeur dit uitleggen hoe hij het zou aanpakken en gaf hij tips om mij in ieder geval uit de tunnel visie te halen waar ik in zat. Ik heb hem dan ook gebruikt als een soort Rubber Duck. Soms kwam de oplossing al tevoorschijn tijdens het uitleggen van het probleem, waarna ik mij vrij stom voelde dat ik het moest vragen.
+
+## Es6 cursus
+Ik heb tijdens het vak de cursus ES6 for everyone van Wes Bos gekocht. Ik heb er helaas pas 2 uur in zitten van de 7, vanwege de combinatie stage en het volgen van het vak Frontend 3.
+
+Je vindt een link naar de pagina [hier](https://es6.io/).
 
 ## Totaal aantal uren
 
 | Wat ik heb geleerd        | Waar ik het heb geleerd           | Aantal uren  |
 | ------------- |:-------------:| -----:|
-| Github markdown      | [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | 1 |
-| D3.js basis     | [Udemy](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/)      |   4 |
+| Github markdown      | [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | 2 |
+| D3.js basis     | [Udemy](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/)      |   6 |
 | Documentatie en examples | [Wiki](https://github.com/d3/d3/wiki)      |    4 |
-| Stack overflow | [Stack overflow](https://stackoverflow.com/)      |    3 |
-| MDN  | [MDN](https://developer.mozilla.org/nl/)      |    2 |
+| Stack overflow | [Stack overflow](https://stackoverflow.com/)      |    8 |
+| MDN  | [MDN](https://developer.mozilla.org/nl/)      |    6 |
 | This  | [This](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)      |    2 |
+| Hulp van een Programmeur  |  Tijdens mijn stage     |    2 |
+| ES Cursus  |    [ES van Wes Bos](https://es6.io/)   |    2 (nog 5 uur te gaan) |
